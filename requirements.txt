@@ -43,10 +43,7 @@ jsonpatch==1.33
 jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
-langchain==0.3.13
-langchain-anthropic==0.3.1
-langchain-community==0.0.34
-langchain-core==0.3.28
+
 langchain-google-genai==2.0.7
 langchain-openai==0.2.14
 langchain-text-splitters==0.3.4
@@ -102,3 +99,15 @@ tzdata==2024.2
 uritemplate==4.1.1
 urllib3==2.3.0
 yarl==1.18.3
+
+# ローカル環境
+# langchain==0.3.13
+# langchain-anthropic==0.3.1
+# langchain-community==0.0.34
+# langchain-core==0.3.28
+
+# 変更
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.46
+langchain-anthropic==0.1.11
