@@ -109,5 +109,5 @@ yarl==1.18.3
 # 変更
 langchain==0.1.16
 langchain-community==0.0.34
-langchain-core==0.1.46
+langchain-core==0.3.28
 langchain-anthropic==0.1.11
